@@ -3,7 +3,6 @@
 
 ## makeing Cache Matrix
 
-## Snehasish Mandal
 
 makeCacheMatrix <- function(x = matrix()) {
         inv <- NULL
@@ -22,9 +21,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 
-## Cache Solve
-
-## Snehasish Mandal                
+## Cache Solve                
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
